@@ -1,0 +1,21 @@
+{
+  "INTERNAL_SERVER_ERROR": "An error occurred. Please try again\n({serviceTag}#{errCode})",
+  "DB_ERROR": "Database connection error\n({serviceTag}#{errCode})",
+  "CALLER_ERROR": "Error calling external service\n({serviceTag}#{errCode})",
+  "BAD_REQUEST": "{field} is missing or formatted incorrectly",
+  "UNAUTHORIZED": "Invalid Access token",
+  "NEED_LOGIN": "Please login to view this content",
+  "NO_PERMISSION": "You do not have access permission",
+  "INVALID": "{field} is not valid",
+  "EXPIRED": "{field} has expired",
+  "CONFLICT": "{field} already exists",
+  "NOT_FOUND": "{field} does not exist",
+  "BLOCKED": "{field} is locked",
+  "TEMP_BLOCKED": "{field} has been temporarily locked. Please try again in {seconds} seconds",
+  "EXCEEDED_LIMIT": "{field} has exceeded the limit. Please try again in {seconds} seconds",
+  "USER_HAS_BEEN_ACTIVATED": "This account has been activated",
+  "DATA_NOT_FOUND": "No data found",
+  "USER_DOES_NOT_EXISTS": "The account does't exists",
+  "USER_HAS_NOT_BEEN_ACTIVATED": "This account has not been activated",
+  "YOU_HAVE_NO_GROUPS": "You do not have the following permission groups {groups}"
+}
